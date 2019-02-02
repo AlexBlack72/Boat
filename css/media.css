@@ -1,0 +1,462 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199px) {
+	.top-mnu ul {
+		margin-left: 0;
+		text-align: center;
+	}
+	.header	{
+		margin-bottom: 0;
+	}
+	h1 {
+		font-size: 67px;
+	}
+	.photo {
+		height: auto;
+	}
+	.header-wrap {
+		margin-top: 80px;
+	}
+	.photo-wrap {
+		margin-top: 60px;
+	}
+	.button-buy {
+		margin-top: 60px;
+		margin-bottom: 60px;
+	}
+	.my-boat {
+		height: auto;
+	}
+	
+	.button-buy-1 {
+		margin-bottom: 163px;
+	}
+	.your-boat {
+		height: auto;
+	}
+	.your-boat-wrap {
+		margin-top: 50px;
+		margin-left: 0;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap {
+		margin-top: 50px;
+	}
+	.Crusier-51-wrap,
+	.Crusier-41S-wrap {
+		margin-top: 30px;
+	}
+	.text-boat-wrap {
+		margin-top: 110px;
+		padding-bottom: 15px;
+	}
+	.button-buy-2 {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap,
+	.Crusier-41S-wrap {
+		background-size:100%;
+		height: auto;
+	}
+	.berths-0 {
+		margin-left: 130px;
+	}
+	.berths {
+		margin-left: 60px;
+	}
+	.berths-1 {
+		margin-left: 130px;
+	}
+	.footer-text-wrap-1 {
+		margin-left: 11px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+	h1 {
+		font-size: 55px;
+	}
+	.h1-descript {
+		font-size: 28px;
+	}
+	#form-header select {
+		margin-left: 100px;
+	}
+	.info-text {
+		width: 200px;
+	}
+	.info-text-1, 
+	.info-text-2, 
+	.info-text-3, 
+	.info-text-4 {
+		font-size: 25px;
+		padding-left: 65px;
+	}
+	.info-text-4 {
+		padding-left: 60px;
+	}
+	.info-span-1 {
+		padding-left: 45px;
+	}
+	.info-span-2 {
+		padding-left: 75px;
+	}
+	.info-span-3 {
+		padding-left: 87px;
+	}
+	.info-span-4 {
+		padding-left: 75px;
+	}
+	.h1-2-descript {
+		margin-left: 0;
+	}
+	.your-boat-wrap {
+		margin-top: 70px;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap,
+	.Crusier-41S-wrap {
+		background-size:cover;
+		height: auto;
+		margin-top: 70px;
+	}
+	.text-boat-wrap {
+		margin-top: 265px;
+	}
+	.berths-0 {
+		margin-left: 420px;
+	}
+	.berths-1 {
+		margin-left: 427px;
+	}
+	.berths {
+		margin-left: 350px;
+	}
+	.button-buy-2 {
+		margin-top: 70px;
+		margin-bottom: 70px;
+	}
+	.sign-us {
+		height: auto;
+	}
+	.footer-text-wrap-0,
+	.footer-text-wrap, 
+	.footer-text-wrap-1, 
+	.footer-text-wrap-2 {
+	text-align: center;
+	}
+	.soc-wrap {
+		padding-bottom: 50px;
+	}
+	.fa:last-child {
+		padding-left: 0;
+}
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	.top-content {
+		margin-top: 120px;
+	}
+	h1 {
+		font-size: 50px;
+		letter-spacing: 0.03em
+	}
+	.h1-descript {
+		font-size: 25px;
+	}
+	#form-header select {
+	padding-left: 20px;
+	width: 100%;
+	margin-left: 0;
+	font-size: 17px;
+	border-radius: 5px;
+	}
+	.nopaddingrihgt {
+		padding-right: 15px;
+	}
+	#form-header button::before {
+		font-size: 22px;
+	}
+	#form-header button {
+	margin-left: 0;
+	margin: 0 auto;
+	border-radius: 10px;
+	width: 250px;
+	font-size: 20px;
+	margin-top: 40px;
+	}
+	.info {
+	margin-left: 0;
+	width: 100%;
+	height: 250px;
+	}
+	.info-1 {
+		margin-top: 170px;
+		margin-left: 0;
+	}
+	.info-text-1, 
+	.info-text-2, 
+	.info-text-3, 
+	.info-text-4 {
+		padding-left: 135px;
+	}
+	.info-span-1, 
+	.info-span-2, 
+	.info-span-3, 
+	.info-span-4 {
+		padding-left: 150px;
+	}
+	.info-span-1 {
+		padding-left: 120px;
+	}
+	.info-text {
+		width: 100%;
+	}
+	.info-wrap {
+		margin-top: 65px;
+	}
+	.h2-descript {
+		margin-bottom: 60px;
+	}
+	.my-boat-wrap {
+		margin-top: 90px;
+		margin-left: 0;
+	}
+	.h1-2-descript {
+		font-size: 25px;
+	}
+	.button-buy-1 {
+	margin-top: 90px;
+	margin-bottom: 90px;
+	border-radius: 10px;
+	}
+	.your-boat-wrap {
+	margin-top: 50px;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap, 
+	.Crusier-41S-wrap {
+    background-size:100%;
+    height: auto;
+    margin-top: 50px;
+  }
+  .text-boat-wrap {
+		margin-top: 25%;
+		padding-bottom: 50px;
+	}
+	.berths-0,
+	.berths-1,
+	.berths {
+		margin-left: 5px;
+		display: block;
+	}
+	.button-buy-2 {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+	.footer-text-h-1 {
+		font-size: 30px;
+		font-weight: 400;
+	}
+	.footer-text,
+	.footer-text-h {
+		font-size: 25px;
+		font-weight: 400;
+	}
+	#form-sign-us button {
+		font-size: 16px;
+		height: 43px;
+	}
+	.fa-wrap {
+		width: 65px;
+		height: 65px;
+		margin: 0 auto;
+	}
+	.soc-wrap {
+		font-size: 30px;
+	}
+	.fa {
+		padding-top: 17px;
+	}
+}
+@media only screen and (max-width : 640px) {
+	.header {
+		height: auto;
+	}
+	.info-text {
+		border: none;
+	}
+	.info-text-1,
+	.info-text-2,
+	.info-text-3, 
+	.info-text-4 {
+		padding-left: 85px;
+	}
+	.info-span-1 {
+		padding-left: 65px;
+		display: block;
+		margin-top: 10px;
+	} 
+	.info-span-3,
+	.info-span-2,
+	.info-span-4 {
+		padding-left: 95px;
+		display: block;
+		margin-top: 10px;
+	}
+}
+@media only screen and (max-width : 580px) {
+	.berths-0,
+	.berths-1,
+	.berths {
+		margin-left: 30px;
+		display: inline-block;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap, 
+	.Crusier-41S-wrap {
+		margin-top: 30px;
+	}	
+	.maps-text a, 
+	.berths, 
+	.maps-text-1 a, 
+	.berths-1, 
+	.berths-0 {
+		margin-top: 0;
+	}
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 479px) {
+	h1 {
+		font-size: 46px;
+	}
+	.top-content {
+		margin-top: 50px;
+	}
+	#form-header select {
+		padding-left: 10px;	
+		font-size: 14px;
+	}
+	.info-text-1, 
+	.info-text-2, 
+	.info-text-3, 
+	.info-text-4 {
+		padding-left: 55px;
+	}
+	.info-span-1 {
+		padding-left: 35px;
+	}
+	.info-span-2, 
+	.info-span-3, 
+	.info-span-4 {
+		padding-left: 65px;
+	}
+	.button-buy-1 {
+		margin-top: 60px;
+		width: 280px;
+	}
+	.your-boat select {
+		margin-left: 5px;
+		margin-top: -15px;
+	}
+	.text-boat-wrap {
+		padding-bottom: 15px;
+	}
+	.footer-text-h-1,
+	.footer-text-h{
+		font-size: 20px;
+	}
+	.footer-text {
+		font-size: 17px;
+	}
+	#form-sign-us input {
+		border-radius: 5px;
+	}
+	#form-sign-us button {
+		display: block;
+		margin: 0 auto;
+		border-radius: 5px;
+		margin-top: 20px;
+	}
+	.fa-wrap {
+		width: 55px;
+		height: 55px;
+		font-size: 21px;
+	}
+}
+@media only screen and (max-width : 420px) {
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap, 
+	.Crusier-41S-wrap {
+		margin-top: 30px;
+	}	
+	.berths-0,
+	.berths-1,
+	.berths {
+		margin-left: 5px;
+		display: block;
+	}
+	.text-boat-wrap {
+		margin-top: 15%;
+		padding-bottom: 30px;
+		margin-left: 0;
+	}
+
+}
+@media only screen and (max-width : 360px) {
+	.berths-0,
+	.berths-1, 
+	.berths {
+		display: inline-block;
+	}
+	.delphia47-wrap, 
+	.sense-55-wrap, 
+	.Crusier-51-wrap, 
+	.Crusier-41S-wrap {
+		margin-top: 15px;
+	}
+	.text-boat-wrap {
+		margin-top: 11%;	
+	}
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
